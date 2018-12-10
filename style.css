@@ -1,0 +1,85 @@
+.block{
+  background-color:red;
+  opacity: .4;
+}
+
+.nav-pills{
+  font-family:Pacifico;
+  font-size:1.6em;
+  background-color: red;
+  opacity: .7;
+  margin-top: 4.9%;
+}
+
+body{
+  background-color: white;
+  font-family: Lobster;
+}
+
+h1{
+  text-color: black;
+  padding:100px;
+  margin-top:0px;
+  font-size:80px;
+}
+
+h2{
+  text-color: black;
+  padding:20px;
+  margin-top:0px;
+  font-size:60px;
+}
+
+p {
+    font-size: 3em;
+  font-family: "Times New Roman";
+  font-style: Oblique;
+  padding-top:5%;
+}
+
+.btn-default{
+  background-color:red;
+  border-color:red;
+  color:black;
+  font-size:1.8em;
+}
+
+.pageOne{
+    background-image: url("https://images.unsplash.com/photo-1472552944129-b035e9ea3744?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=9sxekzucvoe-gregoire-jeanneau.jpg&s=93cd107769e8c951b6d3be5e978f7751");
+  background-size:cover;
+  height:1000px;
+  margin-top: -5%;
+  margin-left: -2%;
+  margin-right: -2%;
+}
+
+.pageTwo{
+  background: url("https://images.unsplash.com/photo-1484766280341-87861644c80d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=cakc6u4d95g-john-towner.jpg&s=536c4cebc4eb969bc7bcdf1e0dab56be");
+ background-size:cover;
+  height:1000px;
+  margin-left: -2%;
+  margin-right: -2%;
+}
+
+.me{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.pageThree{
+  background:url("http://orig07.deviantart.net/be2b/f/2011/170/8/a/above_the_sky_by_boomerama_llama-d3jddbq.jpg");
+  background-size:cover;
+  height:1000px;
+  margin-left: -2%;
+  margin-right: -2%;
+
+}
+
+.pageFour{
+  background:url("http://www.exploratorium.edu/learning_studio/auroras/images/orion_aurora.jpg");
+  background-size:cover;
+  height:1000px;
+  margin-left: -2%;
+  margin-right: -2%;
+
+}
